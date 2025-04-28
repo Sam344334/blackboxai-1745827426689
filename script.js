@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
             loginContainer.classList.add('hidden');
             ideContainer.classList.remove('hidden');
             // Set iframe source after successful login
-            ideFrame.src = 'https://agent.blackbox.ai/?sandbox=p82fc6';
+            ideFrame.src = 'https://agent.blackbox.ai/?sandbox=52ss7m';
         } else {
             // Show error message with shake animation
             errorMessage.classList.remove('hidden');
